@@ -1,6 +1,6 @@
 # An Automated Cell Line Authentication Method for AstraZeneca Global Cell Bank
 
-This is the official public Pytorch implementation for our paper (paper link), which was submitted to Nature Scientific Report.
+This is the official public Pytorch implementation for our paper (https://www.nature.com/articles/s41598-022-12099-3).
 
 
 For any issue and question, please email [lt228@leicester.ac.uk]
