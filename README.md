@@ -19,7 +19,7 @@ For any issue and question, please email [lt228@leicester.ac.uk]
 
 ## Dataset
 
-Part of example images are put in the './data'. The whole dataset will be published after getting license.
+Part of example images are put in the './data'.
 
 <img src="./figures/Fig. 4.jpeg" alt="centered image" width="893" height="860">
 
